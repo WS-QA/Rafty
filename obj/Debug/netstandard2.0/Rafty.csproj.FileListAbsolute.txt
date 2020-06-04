@@ -1,0 +1,9 @@
+C:\EUA\C_sharp_big\Rafty-0.4.4\src\Rafty\bin\Debug\netstandard2.0\Rafty.deps.json
+C:\EUA\C_sharp_big\Rafty-0.4.4\src\Rafty\bin\Debug\netstandard2.0\Rafty.dll
+C:\EUA\C_sharp_big\Rafty-0.4.4\src\Rafty\bin\Debug\netstandard2.0\Rafty.pdb
+C:\EUA\C_sharp_big\Rafty-0.4.4\src\Rafty\obj\Debug\netstandard2.0\Rafty.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\Rafty-0.4.4\src\Rafty\obj\Debug\netstandard2.0\Rafty.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\Rafty-0.4.4\src\Rafty\obj\Debug\netstandard2.0\Rafty.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\Rafty-0.4.4\src\Rafty\obj\Debug\netstandard2.0\Rafty.AssemblyInfo.cs
+C:\EUA\C_sharp_big\Rafty-0.4.4\src\Rafty\obj\Debug\netstandard2.0\Rafty.dll
+C:\EUA\C_sharp_big\Rafty-0.4.4\src\Rafty\obj\Debug\netstandard2.0\Rafty.pdb

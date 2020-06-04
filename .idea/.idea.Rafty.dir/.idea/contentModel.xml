@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\EUA\C_sharp_big\Rafty-0.4.4\src\Rafty" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Concensus" t="Include">
+        <e p="Messages" t="Include">
+          <e p="AppendEntries.cs" t="Include" />
+          <e p="AppendEntriesBuilder.cs" t="Include" />
+          <e p="AppendEntriesResponse.cs" t="Include" />
+          <e p="AppendEntriesResponseBuilder.cs" t="Include" />
+          <e p="RequestVote.cs" t="Include" />
+          <e p="RequestVoteBuilder.cs" t="Include" />
+          <e p="RequestVoteResponse.cs" t="Include" />
+          <e p="RequestVoteResponseBuilder.cs" t="Include" />
+        </e>
+        <e p="Node" t="Include">
+          <e p="INode.cs" t="Include" />
+          <e p="Node.cs" t="Include" />
+          <e p="NodePeer.cs" t="Include" />
+        </e>
+        <e p="Peers" t="Include">
+          <e p="IPeer.cs" t="Include" />
+          <e p="Peer.cs" t="Include" />
+        </e>
+        <e p="States" t="Include">
+          <e p="Candidate.cs" t="Include" />
+          <e p="CurrentState.cs" t="Include" />
+          <e p="Follower.cs" t="Include" />
+          <e p="IState.cs" t="Include" />
+          <e p="Leader.cs" t="Include" />
+          <e p="MatchIndex.cs" t="Include" />
+          <e p="NextIndex.cs" t="Include" />
+          <e p="PeerState.cs" t="Include" />
+          <e p="Rules.cs" t="Include" />
+        </e>
+      </e>
+      <e p="FiniteStateMachine" t="Include">
+        <e p="ICommand.cs" t="Include" />
+        <e p="IFiniteStateMachine.cs" t="Include" />
+        <e p="InMemoryStateMachine.cs" t="Include" />
+      </e>
+      <e p="Infrastructure" t="Include">
+        <e p="ErrorResponse.cs" t="Include" />
+        <e p="InMemoryPeersProvider.cs" t="Include" />
+        <e p="InMemorySettings.cs" t="Include" />
+        <e p="InMemorySettingsBuilder.cs" t="Include" />
+        <e p="IPeersProvider.cs" t="Include" />
+        <e p="IRandomDelay.cs" t="Include" />
+        <e p="ISettings.cs" t="Include" />
+        <e p="Message.cs" t="Include" />
+        <e p="NodeId.cs" t="Include" />
+        <e p="OkResponse.cs" t="Include" />
+        <e p="RandomDelay.cs" t="Include" />
+        <e p="Response.cs" t="Include" />
+        <e p="Waiter.cs" t="Include" />
+      </e>
+      <e p="Log" t="Include">
+        <e p="ILog.cs" t="Include" />
+        <e p="InMemoryLog.cs" t="Include" />
+        <e p="LogEntry.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netstandard2.0" t="Include">
+            <e p="Rafty.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Rafty.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\InonBarnea\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\InonBarnea\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.03" t="ExcludeRecursive" />
+  </component>
+</project>

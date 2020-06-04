@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Rafty</id>
+    <version>0.0.0-dev</version>
+    <authors>Tom Pallister</authors>
+    <owners>Tom Pallister</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/TomPallister/Rafty</projectUrl>
+    <description>RAFT consensus implementation</description>
+    <tags>API Gateway .NET core</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.DotNet.InternalAbstractions" version="1.0.500-preview2-1-003177" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging" version="2.0.2" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.1" exclude="Build,Analyzers" />
+        <dependency id="SharpCompress" version="0.20.0" exclude="Build,Analyzers" />
+        <dependency id="System.ValueTuple" version="4.4.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\EUA\C_sharp_big\Rafty-0.4.4\src\Rafty\bin\Debug\netstandard2.0\Rafty.dll" target="lib\netstandard2.0\Rafty.dll" />
+  </files>
+</package>

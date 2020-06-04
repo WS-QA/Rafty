@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\EUA\\C_sharp_big\\Rafty-0.4.4\\src\\Rafty\\Rafty.csproj": {}
+  },
+  "projects": {
+    "C:\\EUA\\C_sharp_big\\Rafty-0.4.4\\src\\Rafty\\Rafty.csproj": {
+      "version": "0.0.0-dev",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\Rafty-0.4.4\\src\\Rafty\\Rafty.csproj",
+        "projectName": "Rafty",
+        "projectPath": "C:\\EUA\\C_sharp_big\\Rafty-0.4.4\\src\\Rafty\\Rafty.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\Rafty-0.4.4\\src\\Rafty\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.DotNet.InternalAbstractions": {
+              "target": "Package",
+              "version": "[1.0.500-preview2-1-003177, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "SharpCompress": {
+              "target": "Package",
+              "version": "[0.20.0, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
